@@ -1,0 +1,16 @@
+{
+  "name": "answer",
+  "version": "0.0.1",
+  "description": "a tools for frontend project",
+  "author": {
+    "email": "binavid.chen@gmail.com",
+    "name": "Binavid Chen",
+    "url": "https://github.com/chenliangyu/answer.git"
+  },
+  "repository": {
+    "url": "https://github.com/chenliangyu/answer.git"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "private":true
+}
